@@ -1,4 +1,23 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 1ª SPRINT
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+MAPA MENTAL
+
+<img width="561" height="660" alt="image" src="https://github.com/user-attachments/assets/676af997-9311-4ccf-bc20-e63da85e5c23" />
+
+FLUXOGRAMA
+
+<img width="901" height="696" alt="image" src="https://github.com/user-attachments/assets/23650ba5-b66c-47bf-ab91-36830d048052" />
+
+DIAGRAMA DE GANTT(CRONOGRAMA)
+
+<img width="1083" height="723" alt="image" src="https://github.com/user-attachments/assets/a7ae0dd1-b664-4cf9-874b-3e23bddeb961" />
+
+FILTRAGEM DE DADOS PELO COLLAB(PHYTON)
+
+<img width="928" height="642" alt="image" src="https://github.com/user-attachments/assets/877e4477-abbd-4335-b011-41cd7c86d327" />
+Dados extraídos do Comex Stat, unificados em uma pasta do google drive, depois foi exportado para o Google Collab. Foi usado a linguagem Python e a biblioteca Pandas para realizar a filtragem de dados de acordo com o SH4 e as cidades do vale do paraíba, salvando em duas planilhas, uma para exportação e outra para importação.
+[Dados Exportação e Importação.xlsm](https://github.com/user-attachments/files/23110682/Dados.Exportacao.e.Importacao.xlsm)
+
+1° DASHBOARD
+
+<img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/0ab7853a-9b17-4ad3-aa1d-c692ec28b1d7" />
