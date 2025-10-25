@@ -26,7 +26,7 @@ DIAGRAMA DE GANTT(CRONOGRAMA)
 
 FILTRAGEM DE DADOS PARCIAL PELO COLLAB(PHYTON)
 
-<img width="928" height="642" alt="image" src="https://github.com/user-attachments/assets/877e4477-abbd-4335-b011-41cd7c86d327" />
+
 
 Dados extraídos do Comex Stat, unificados em uma pasta do google drive, depois foi exportado para o Google Collab. Foi usado a linguagem Python e a biblioteca Pandas para realizar a filtragem de dados de acordo com o SH4 e as cidades do vale do paraíba, salvando em duas planilhas, uma para exportação e outra para importação.
 [Dados Exportação e Importação.xlsm](https://github.com/user-attachments/files/23110682/Dados.Exportacao.e.Importacao.xlsm)
