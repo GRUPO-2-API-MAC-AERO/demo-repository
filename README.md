@@ -1,4 +1,4 @@
-[Exportação (1).ipynb](https://github.com/user-attachments/files/23137223/Exportacao.1.ipynb)# 1ª SPRINT
+# 1ª SPRINT
 
 BACKLOG PARCIAL
 
