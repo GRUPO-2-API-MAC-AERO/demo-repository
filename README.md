@@ -47,12 +47,8 @@ PLANO DE AÇÃO(5W2H)
 
 # 2ª SPRINT
 
-FILTRAGEM DE DADOS COMPLETA
 
-Foram adicionados todos códigos SH4 relacionados a nossa cadeia produtiva, para uma demonstração completa no nosso dashboard.
-
-
-# User Story
+USER STORY
 
 <img width="1272" height="513" alt="image" src="https://github.com/user-attachments/assets/4e509e13-cd20-4358-8f28-892f55968f2b" />
 
