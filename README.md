@@ -52,3 +52,8 @@ FILTRAGEM DE DADOS COMPLETA
 Foram adicionados todos códigos SH4 relacionados a nossa cadeia produtiva, para uma demonstração completa no nosso dashboard.
 
 
+# User Story
+
+<img width="1272" height="513" alt="image" src="https://github.com/user-attachments/assets/4e509e13-cd20-4358-8f28-892f55968f2b" />
+
+
