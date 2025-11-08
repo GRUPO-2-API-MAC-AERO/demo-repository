@@ -47,17 +47,6 @@ PLANO DE AÇÃO(5W2H)
 
 # 2ª SPRINT
 
-BACKLOG
-
-[backlog.xlsx](https://github.com/user-attachments/files/23111094/backlog.xlsx)
-
-
-[userscore.xlsx](https://github.com/user-attachments/files/23111105/userscore.xlsx)
-
-
-
 FILTRAGEM DE DADOS COMPLETA
-
-[Dados completos.xlsm](https://github.com/user-attachments/files/23110984/Dados.completos.xlsm)
 
 Foram adicionados todos códigos SH4 relacionados a nossa cadeia produtiva, para uma demonstração completa no nosso dashboard.
