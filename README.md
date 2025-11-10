@@ -56,7 +56,7 @@ USER STORY
 
 5W1H
 
-
+<img width="1467" height="787" alt="Captura de tela 2025-11-10 202753" src="https://github.com/user-attachments/assets/17969fbd-dc6f-457f-ba6b-497b3fa66cd8" />
 
 
 
