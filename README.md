@@ -63,10 +63,12 @@ USER STORY
 DashBoard
 
 Importação
-https://github.com/user-attachments/assets/41d6de54-f284-4bb3-8045-a467021ac4fe
+![Gravando 2025-11-10 204324](https://github.com/user-attachments/assets/59d447a1-6969-4bae-a6a8-2ded2cbcd3f2)
+
 
 Exportação
-https://github.com/user-attachments/assets/00532fe3-29ed-4714-bab1-e7da8c06f2fe
+![Gravando 2025-11-10 204124](https://github.com/user-attachments/assets/a733e329-97a3-4d7f-8885-34e943d46425)
+
 
 
 
