@@ -65,9 +65,9 @@ Este projeto tem como objetivo demonstrar de forma sucinta os dados do comércio
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 10/10/2025 | feito  | [MVP](MVP/sp1.md)  |
-| 02                | 10/11/2025 | feito  | [MVP](MVP/sp2.md)  |
-| 03                | 24/11/2025 | feito  | [MVP](MVP/sp3.md)  |
-| Cliente (Cavali)  | 01/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 01                | 10/10/2025 | feito  | [MVP](MVP/Sprint1.md)  |
+| 02                | 10/11/2025 | feito  | [MVP](MVP/Sprint2.md)  |
+| 03                | 24/11/2025 | feito  | [MVP](MVP/Sprint3.md)  |
+| Cliente (Cavali)  | 01/12/2025 | a fazer  | [MVP](MVP/Sprint3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
