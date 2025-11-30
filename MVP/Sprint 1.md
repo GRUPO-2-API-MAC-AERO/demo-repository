@@ -1,40 +1,42 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [MAC AERO 1]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Mapear o ecossistema industrial de São José dos Campos e região:  
+- Suprir a necessidade de uma plataforma que torna os dados mais disponíveis.  
+- Ender quais situações ou agentes externos interferem no lucro.
+- O cliente irá receber uma platadorma de dados de fácil compreensão. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Introdução da equipe a base de dados e as ferramentas utilizadas usando a metodologia ágil.  
+- Utilização de uma filtragem de dados por setor produtivo, com graficos intuitivos.  
+- Falta de dados sobre a exportação.
+- Criação de um dashboard com graficos de fácil entendimento.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Prof. Rubens:** avaliação de aprendizado, grupo conseguiu aprender a utilizar as ferramentas.  
+- **Prof. Marcus:** avaliação do produto, dashboard bem estruturado com dados reais.  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.         | Baixa       | 8H   |
+| US2 | Na qualidade de cliente, solicito a revisão do banco de dados de NCM por município, com o objetivo de assegurar a consistência, a completude das informações disponibilizadas.         | Alta      | 72H   |
+| US1 | Solicito, na qualidade de cliente, a entrega dos dados devidamente revisados e analisados, assegurando a precisão, consistência e integridade das informações apresentadas.         | Média       | 6H   |
+| US2 | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard já com os dados tratados inseridos.         | Alta      | 2H   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Dados tratados e filtrados]                 | Concluído|
+| 02     | [Adicionais mais produtor para exportação]   | Concluído|
 
 ---
 
