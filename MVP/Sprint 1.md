@@ -36,7 +36,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Dados tratados e filtrados                 | Concluído|
-| 02     | Adicionais mais produtos na exportação   | Concluído|
+| 02     | Adicionar mais produtos na exportação   | Concluído|
 
 ---
 
