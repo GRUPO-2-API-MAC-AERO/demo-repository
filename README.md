@@ -29,7 +29,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo demonstrar de forma sucinta os dados do comércio exterior da indústria aeronáutica, visando:
+Este projeto tem como objetivo demonstrar de forma clara os dados do comércio exterior da indústria aeronáutica, visando:
 * Apresentar dados reais do ComexStat;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
