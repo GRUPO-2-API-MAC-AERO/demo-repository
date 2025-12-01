@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do MVP
 > Trazer as top 5 cidades mais rentáveis do setor aeronáutico:  
-- Demonstra quais municípios contribuem mais no ramo.  
+- Demonstrar quais municípios contribuem mais no ramo.  
 - Será avaliado o ecossistema e como afetou os valores de exportação e importação.
 - Sera entregue um dashboard bem estruturado e com uma análise do motivo dos valores apresentados.
 
