@@ -25,39 +25,39 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Na qualidade de cliente, solicito a substituição do gráfico atualmente apresentado por uma alternativa mais adequada, que proporcione maior clareza e facilite a interpretação dos dados.         | Alta       | 2H   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US2 | Como cliente solicito o plano de ação referente ao aprendizado, desenvolvimento e desempenho dos envolvidos no projeto.         | Baixa      | 8H   |
+| US3 | Na qualidade de cliente, solicito a inclusão de categorias adicionais de SH4 na visualização dos dados filtrados no Power BI, com o objetivo de aprimorar a precisão das informações disponibilizadas.         | Alta       | 4H   |
+| US4 | Na qualidade de cliente, solicito a entrega do repositório no GitHub contendo todo o histórico e documentação referente ao andamento do projeto, de forma clara e organizada.         | Alta      | 5H   |
+| US5 | Na qualidade de cliente, venho solicitar a disponibilização de uma amostra interativa desenvolvida no Power BI. Essa amostra deverá permitir a visualização dinâmica dos dados, facilitando a compreensão e análise das informações apresentadas.         | Baixa      | 2H   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | DashBoard com dados atualizados dos SH4      | Concluído|
+| 03     | Mudar as cidades analisadas para o top 5 de SP           | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualise os valores de exportação e importação e faça a comparação.  
+- O sistema deve registrar valor FOB de exportação e importação filtrado por cidade e ano.
+- Métricas coletadas: Foi analisado que os Municípios de Caçapava e Jacareí não agregam muito valor no setor aeronáutico.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- MVP foi testado pelo Prof. Rubens e pelo Prof. Marcus.
+- Os dados mostrados foram eficazes para demonstrar os valores FOB do comércio de aeronaves e o dashboard está bem estruturado.
+- Dashboard bem estruturado e intuitivo com todos os valores referente ao setor.
+  
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Apresentar uma autoavaliação dos dados apresentados que expliquem os motivos pelos quais os resultados foram apresentados. 
+- Apresentar um DashBoard final e completo com os dados apresentados de forma clara e visual. 
+- Finalização do GitHub com contendo todas as informações do andamento do projeto.
 
 ---
 
